@@ -8,7 +8,7 @@
 
 * JQUERY : Type into the text field, when you click the button, write the value of the text field to the `#response` div.
 
-* Create a GIT branch as your name when finished and push the branch to GITHUB.
+* Create a GIT branch as your name when finished and push the branch to GITHUB. Time limit is 5 minutes.
 
 
 This is how it looks before

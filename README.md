@@ -1,6 +1,6 @@
 # This test is about speed not accuracy.
 
-* Create a GIT branch as your name to push t owhen complete. Time limit is 5 minutes.
+* Create a GIT branch as your name to push to when complete. Time limit is 5 minutes.
 
 * Clone the repo
 

@@ -1,5 +1,7 @@
 # This test is about speed not accuracy.
 
+* Create a GIT branch as your name to push t owhen complete. Time limit is 5 minutes.
+
 * Clone the repo
 
 * Write all your code on the DOC
@@ -12,7 +14,7 @@
 
 # When finished
 
-* Create a GIT branch as your name when finished and push the branch to GITHUB. Time limit is 5 minutes.
+* Push your branch to GITHUB.
 
 
 This is how it looks before

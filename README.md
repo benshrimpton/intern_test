@@ -8,6 +8,8 @@
 
 * JQUERY : Type into the text field, when you click the button, write the value of the text field to the `#response` div.
 
+* Create a GIT branch as your name when finished and push the branch to GITHUB.
+
 
 This is how it looks before
 ![screen shot 2017-04-12 at 10 22 14 am](https://cloud.githubusercontent.com/assets/739699/24962446/fa561bb8-1f69-11e7-8385-de7ba3fe4a00.png)

@@ -11,6 +11,7 @@
       body {padding-top: 100px;}
       /* write triangle style here */
       #triangle { background: black; width:100px; height: 100px;}
+      #trianglereal { width: 0; height: 0; border-left: 50px solid transparent; border-right: 50px solid transparent; border-bottom: 100px solid black;}
     </style>
   
   </head>
@@ -24,7 +25,7 @@
         <input type="text" class="form-control" id="text" name="text" placeholder="Type your text here.....">        
       </div>
       <div class="form-group">
-        <button>submit</button>
+        <input id="hit" type="submit" value="submit"  onclick="myFunction()" />
       </div>  
       <div class="form-group" id="response">
         <pre>Type some text in the above text field, then log the text out here on button click</pre>
@@ -34,8 +35,20 @@
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-    <script>
+    <script >
       //write your JS code here
+      function myFunction(){
+      	
+      	document.getElementById("triangle").id = "trianglereal";
+      	//document.getElementById("demo").style.height = 0;
+      	//document.getElementById("demo").style.border-left = "50px solid transparent";
+      	//document.getElementById("demo").style.border-right = "50px solid transparent";
+      	//document.getElementById("demo").style.border-bottom = border-bottom: 100px solid black;
+
+           
+
+      }
     </script>
+    <script type="text/javascript" src="test.js"></script>
   </body>
 </html>

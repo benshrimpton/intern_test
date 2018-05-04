@@ -1,4 +1,4 @@
-# This test is about speed not accuracy and following instructions.
+# This test is about speed and following instructions, not accuracy .
 
 * Create a GIT branch as your name to push to when complete. Time limit is 5 minutes.
 

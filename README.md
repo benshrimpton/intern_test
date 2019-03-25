@@ -4,7 +4,7 @@
 
 * Clone the repo
 
-* Write all your code on the DOC do not add more files.
+* Write all your code on the `index.html` do not add more files.
 
 # Do these 2 tasks
 

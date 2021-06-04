@@ -1,7 +1,5 @@
 # This test is about speed and following instructions, not accuracy .
 
-* Create a GIT branch as your name to push to when complete. Time limit is 5 minutes.
-
 * Clone the repo
 
 * Write all your code on the `index.html` do not add more files.
@@ -10,11 +8,11 @@
 
 * CSS : Turn the square div into a TRIANGLE - doesnt matter how big or small or which way it faces, it just needs to be a TRIANGLE with a BLACK background.
 
-* JQUERY TEST : Type into the text field, when you click the button, write the value of the text field to the `#response` div. You can write this in pure JS/ES6 if you like.
+* JAVASCRIPT TEST : Type into the text field, when you click the button, write the value of the text field to the `#response` div. You can write this in pure JS if you like, but Jquery is included so cna be used.
 
 # When finished
 
-* Push your branch to GITHUB.
+* Create a pull request.
 
 # Before & after
 
